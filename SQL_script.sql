@@ -1,5 +1,5 @@
 
--- First Tables: Covid related figures (infections, deaths, total cases, country population etc.)
+-- First Table: Covid related figures (infections, deaths, total cases, country population etc.)
 
 select *
 from projects..CovidDeaths
